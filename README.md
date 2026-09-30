@@ -33,13 +33,16 @@ My current priority is getting better at the fundamentals and understanding why 
 
 ## GitHub
 
-**211 contributions**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muheebkamran&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
 
-A small record of how long I've been showing up and putting work into the craft.
+**211 contributions**
 
 ## Connect
 
 - **GitHub:** [@muheebkamran](https://github.com/muheebkamran)
+- **Instagram:** [@muheebkamran](https://www.instagram.com/muheebkamran/)
 - **Portfolio:** [muheebkamran.github.io/Muheeb.Portfolio](https://muheebkamran.github.io/Muheeb.Portfolio/)
 - **Email:** [muheebkamran53@gmail.com](mailto:muheebkamran53@gmail.com)
 
