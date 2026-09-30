@@ -1,58 +1,41 @@
-# Muheeb Ur Rehman
+# Hi, I'm Muheeb.
 
-**Computer Science student · Software engineering · Builder**
+I'm a **Computer Science student**, software development enthusiast, and tech enthusiast. I'm interested in understanding how software works, building things myself, and gradually becoming a stronger software engineer.
 
-I’m building my software-engineering foundation from the ground up. Right now that means writing Python, learning C, working through web development, and strengthening the problem-solving and CS fundamentals behind the code.
+## Who am I?
 
-I prefer learning by building things, keeping the work public, and letting the repositories speak for themselves.
+I'm currently focused on building a solid foundation rather than trying to learn everything at once.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=8B949E&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Review+%E2%86%92+Repeat" alt="Learning loop" />
-</p>
+I learn by writing code, solving problems, building projects, and keeping my work on GitHub.
 
----
+## What I'm working on
 
-## What I'm doing
+- Learning **Python** through MIT 6.100L
+- Learning **C** through *Programming in C* by Stephen G. Kochan
+- Building my **web development** skills through HTML, CSS and JavaScript
+- Strengthening my **computer science fundamentals and problem-solving**
+- Building **The Warden**, a personal accountability system
 
-- **Python** — MIT 6.100L finger exercises and problem sets
-- **C** — exercises and experiments while working through Stephen G. Kochan
-- **Web development** — HTML, CSS and JavaScript through SMIT coursework and projects
-- **CS fundamentals** — building toward stronger data structures, algorithms and software engineering skills
-- **Building** — The Warden, a personal accountability system
+## What I'm learning
 
-## GitHub activity
+**Python** · **C** · **HTML/CSS** · **JavaScript** · **TypeScript** · **React** · **Next.js** · **Git/GitHub**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muheebkamran&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com?user=muheebkamran&hide_border=true&theme=transparent" height="165" alt="GitHub streak" />
-</p>
+My current priority is getting better at the fundamentals and understanding why things work, not just getting them to work.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muheebkamran&layout=compact&hide_border=true&theme=transparent" height="140" alt="Most used languages" />
-</p>
+## Projects
 
----
+- **[The Warden](https://github.com/muheebkamran/The-Warden)** — Personal accountability and habit-tracking system.
+- **[Muheeb.Portfolio](https://github.com/muheebkamran/Muheeb.Portfolio)** — My personal portfolio and CS journey.
+- **[MIT Finger Exercises](https://github.com/muheebkamran/MIT-Finger-Exercises)** — Python exercises and problem sets from MIT 6.100L.
+- **[Python Practice Programs](https://github.com/muheebkamran/Python-Practice-programs)** — Python practice and programming exercises.
+- **[C Programming Practice](https://github.com/muheebkamran/Programming-in-C-by-Stephen-G.-Kochan-Practices)** — Exercises and experiments from Stephen G. Kochan's *Programming in C*.
+- **[SMIT Assignments](https://github.com/muheebkamran/SMIT-Assignment)** — Web development assignments and practical work.
 
-## Projects & repositories
+## GitHub
 
-Everything I’m currently working on is here.
+**211 contributions**
 
-| Repository | What it is |
-|---|---|
-| [The Warden](https://github.com/muheebkamran/The-Warden) | Personal accountability and habit-tracking system built with Next.js, React, TypeScript, Tailwind and Prisma. |
-| [Muheeb.Portfolio](https://github.com/muheebkamran/Muheeb.Portfolio) | My personal portfolio and record of my CS journey. |
-| [MIT Finger Exercises](https://github.com/muheebkamran/MIT-Finger-Exercises) | Python finger exercises and problem sets from MIT 6.100L. |
-| [Python Practice Programs](https://github.com/muheebkamran/Python-Practice-programs) | Python practice and programming exercises. |
-| [C Programming Practice](https://github.com/muheebkamran/Programming-in-C-by-Stephen-G.-Kochan-Practices) | Exercises and experiments from *Programming in C* by Stephen G. Kochan. |
-| [SMIT Assignments](https://github.com/muheebkamran/SMIT-Assignment) | Assignments and practical work from SMIT Modern Web Application Development. |
-
----
-
-## Current stack
-
-`Python` · `C` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Prisma` · `Git` · `GitHub`
-
----
+A small record of how long I've been showing up and putting work into the craft.
 
 ## Connect
 
@@ -62,4 +45,4 @@ Everything I’m currently working on is here.
 
 ---
 
-<sub>Building fundamentals, shipping projects, and improving through evidence.</sub>
+<sub>Still learning. Still building.</sub>
