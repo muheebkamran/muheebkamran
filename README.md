@@ -42,7 +42,7 @@ My current priority is getting better at the fundamentals and understanding why 
 ## Connect
 
 - **GitHub:** [@muheebkamran](https://github.com/muheebkamran)
-- **Instagram:** [@muheebkamran]([https://www.instagram.com/muheebkamran/](https://www.instagram.com/muh._.kam/))
+- **Instagram:** [@muheebkamran](https://www.instagram.com/muh._.kam/)
 - **Portfolio:** [muheebkamran.github.io/Muheeb.Portfolio](https://muheebkamran.github.io/Muheeb.Portfolio/)
 - **Email:** [muheebkamran53@gmail.com](mailto:muheebkamran53@gmail.com)
 
