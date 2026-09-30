@@ -31,11 +31,6 @@ My current priority is getting better at the fundamentals and understanding why 
 - **[C Programming Practice](https://github.com/muheebkamran/Programming-in-C-by-Stephen-G.-Kochan-Practices)** — Exercises and experiments from Stephen G. Kochan's *Programming in C*.
 - **[SMIT Assignments](https://github.com/muheebkamran/SMIT-Assignment)** — Web development assignments and practical work.
 
-## GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muheebkamran&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
 
 **211 contributions**
 
