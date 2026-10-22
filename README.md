@@ -1,13 +1,5 @@
 # Hi, I'm Muheeb.
 
-I'm a **Computer Science student**, software development enthusiast, and tech enthusiast. I'm interested in understanding how software works, building things myself, and gradually becoming a stronger software engineer.
-
-## Who am I?
-
-I'm currently focused on building a solid foundation rather than trying to learn everything at once.
-
-I learn by writing code, solving problems, building projects, and keeping my work on GitHub.
-
 ## What I'm working on
 
 - Learning **Python** through MIT 6.100L
