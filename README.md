@@ -12,8 +12,6 @@
 
 **Python** · **C** · **HTML/CSS** · **JavaScript** · **TypeScript** · **React** · **Next.js** · **Git/GitHub**
 
-My current priority is getting better at the fundamentals and understanding why things work, not just getting them to work.
-
 ## Projects
 
 - **[The Warden](https://github.com/muheebkamran/The-Warden)** — Personal accountability and habit-tracking system.
@@ -22,9 +20,6 @@ My current priority is getting better at the fundamentals and understanding why 
 - **[Python Practice Programs](https://github.com/muheebkamran/Python-Practice-programs)** — Python practice and programming exercises.
 - **[C Programming Practice](https://github.com/muheebkamran/Programming-in-C-by-Stephen-G.-Kochan-Practices)** — Exercises and experiments from Stephen G. Kochan's *Programming in C*.
 - **[SMIT Assignments](https://github.com/muheebkamran/SMIT-Assignment)** — Web development assignments and practical work.
-
-
-**211 contributions**
 
 ## Connect
 
